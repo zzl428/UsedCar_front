@@ -3,3 +3,12 @@
 html, body, #app {
   height: 100%;
 }
+
+.van-nav-bar__title {
+  flex: 1;
+}
+
+.el-upload-list--picture .el-upload-list__item {
+  width: 95%;
+  margin-left: 10px;
+}
